@@ -1,0 +1,27 @@
+{
+  "name": "backspot",
+  "version": "1.0.0",
+  "description": "Back del proyecto spot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afcarrion/spot-back.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "afcarrion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afcarrion/spot-back/issues"
+  },
+  "homepage": "https://github.com/afcarrion/spot-back#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  }
+}
